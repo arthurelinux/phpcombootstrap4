@@ -6,8 +6,10 @@
 <?php
 echo "olá mundo <br>";
 
-
 include ("aula5-1.php");
+
+echo "<br>";
+echo "pulou";
 ?>
 
 </body>
